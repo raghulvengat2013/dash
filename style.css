@@ -1,0 +1,39 @@
+.nav-button{
+    width: 163px;
+    height: 100px;
+}
+
+.horizontal-line {
+    height: 3px;
+    background-color: #BDBDBD;
+    opacity: 80%;
+}
+.vertical-line{
+    width: 1px;
+    background-color: #BDBDBD;
+    opacity: 80%;
+}
+.card-bottom{
+    border-style: solid;
+    border-width: 3px;
+    border-color: #BDBDBD;
+    border-radius: 10px;
+    opacity: 80%;
+}
+.nav-header-left{
+    margin-left: -29px;
+}
+.nav-header-right{
+    margin-right: -29px;
+} 
+
+h3{
+    font-weight:bolder; 
+    font-size: 22px;
+    color: #BDBDBD;;
+}
+.new-ads{
+    font-weight:bolder; 
+    font-size: 22px;
+    color: #BDBDBD;;
+}
